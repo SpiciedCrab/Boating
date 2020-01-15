@@ -61,7 +61,7 @@ class ScenceState extends State<Scence> {
 
   bool isReverting = false;
   int get currentHour => _now.hour;
-  int get currentMinutes => 20;
+  int get currentMinutes => _now.minute;
 
   @override
   Widget build(BuildContext context) {
