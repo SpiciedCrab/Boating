@@ -1,5 +1,5 @@
 
 # Boating
 
+![snap](quickSnapshot.gif)
 
-<iframe width=812 height=375 src="snapshot.mov"></iframe>
