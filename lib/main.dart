@@ -21,10 +21,7 @@ class OceanTheme {
 }
 
 void main(){
-  SystemChrome.setPreferredOrientations([DeviceOrientation.landscapeRight])
-      .then((_) {
-    runApp(new MyApp());
-  });
+  runApp(new MyApp());
 }
 
 class MyApp extends StatelessWidget {
